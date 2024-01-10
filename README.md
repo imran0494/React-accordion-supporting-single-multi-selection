@@ -1,3 +1,7 @@
+# Build a React accordion supporting single & multi-selection modes. 
+
+The sleek button toggles multi-selection, while useState manages selected items efficiently. The accordion smoothly expands vertically for a seamless user experience. Enhance your app effortlessly! 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
